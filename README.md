@@ -11,3 +11,5 @@ This project includes an administration interface (ad_panel_controller_MainWindo
 * delete the advertisements.
 
 I can't upload the keras models here because these files are too large. However, you can see how I trained the models in the Jupyter Notebooks folder.
+
+Here is a demonstration video of the completed project: https://drive.google.com/file/d/1m9-JId1MlabbpvULMBxlA6_Dcrm07Pdp/view?usp=drive_link
